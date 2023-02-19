@@ -1,0 +1,28 @@
+[
+    {
+    "name": {"first":"Ali", "last":"Abrahim"},
+    "roomNumber": 101,
+    "bookingDateFrom": "2023-01-15",
+    "bookingDateTo": "2023-03-16",
+    "paid": true,
+    "attended": true
+    },
+ {
+    "name": {"first":"Bader", "last":"Mohammad"},
+    "roomNumber": 102,
+    "bookingDateFrom": "2023-03-15",
+    "bookingDateTo": "2023-05-18",
+    "paid": true,
+    "attended": false
+    },
+{
+    "name": {"first":"mohammd", "last":"saleh"},
+    "roomNumber": 103,
+    "bookingDateFrom": "2023-01-15",
+    "bookingDateTo": "2023-03-16",
+    "paid": false,
+    "attended": false
+    }
+    
+
+    ]
